@@ -4,6 +4,7 @@ ssh fd@pwnable.kr -p2222 (pw: guest)
 Before entering the challenge, I searched file descriptors in Linux,
 and found this amazing YouTube video:
 https://youtu.be/zMKacHGuIHI?si=U8X4kyTOPjtZ0xn7
+
 If you only want to finish the CTF ASAP you just need the following picture:
 ![image](https://github.com/ido5ch/Pwnable.kr/assets/97401114/119d12e0-a921-47e9-adaf-148b5f5aa877)
 
