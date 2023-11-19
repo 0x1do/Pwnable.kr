@@ -10,9 +10,9 @@ If you only want to finish the CTF ASAP you just need the following picture:
 
 int value | Name | file stream 
 --- | --- | --- 
-0 | Standart input | stdin 
-1 | Standart output | stdout
-2 | Standart error | stderr
+0 | Standard input | stdin 
+1 | Standard output | stdout
+2 | Standard error | stderr
 
 Now, after that, we got a bit of background on the challenge, let's begin!
 After I connected to the machine I saw 3 files: fd, fd.c, flag.
