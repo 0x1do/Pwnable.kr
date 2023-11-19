@@ -20,7 +20,7 @@ Okay, that's interesting. Let's try just any number (in order to pass argv[1] a 
 ![image](https://github.com/ido5ch/Pwnable.kr/assets/97401114/e4088b38-2efb-4daa-b43a-28fc9682266f)
 
 So it seems like it's not that simple, let's print fd.c and try to analyze it a bit:
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
