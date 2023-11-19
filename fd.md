@@ -7,8 +7,12 @@ and found this awesome YouTube video:
 https://youtu.be/zMKacHGuIHI?si=U8X4kyTOPjtZ0xn7
 
 If you only want to finish the CTF ASAP you just need the following picture:
-![image](https://github.com/ido5ch/Pwnable.kr/assets/97401114/2fc3a9d9-2eb1-4e43-ab78-c1435c35a4eb)
 
+int value | Name | file stream 
+--- | --- | --- 
+0 | Standart input | stdin 
+1 | Standart output | stdout
+2 | Standart error | stderr
 
 Now, after that, we got a bit of background on the challenge, let's begin!
 After I connected to the machine I saw 3 files: fd, fd.c, flag.
