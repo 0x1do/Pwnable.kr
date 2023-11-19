@@ -20,7 +20,31 @@ Okay, that's interesting. Let's try just any number (in order to pass argv[1] a 
 ![image](https://github.com/ido5ch/Pwnable.kr/assets/97401114/e4088b38-2efb-4daa-b43a-28fc9682266f)
 
 So it seems like it's not that simple, let's print fd.c and try to analyze it a bit:
-![image](https://github.com/ido5ch/Pwnable.kr/assets/97401114/684dc5fa-2685-4d8f-88a4-42fb5eb99577)
+```
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+char buf[32];
+
+
+int main(int argc, char* argv[], char* envp[]){
+        if(argc<2){
+                printf("pass argv[1] a number\n");
+
+                return 0;
+        }
+        int fd = atoi( argv[1] ) - 0x1234;  
+        int len = 0;
+        len = read(fd, buf, 32);
+        if(!strcmp("LETMEWIN\n", buf)){
+                printf("good job :)\n");
+                system("/bin/cat flag");
+                exit(0);
+        }
+        printf("learn about Linux file IO\n");
+        return 0;
+})
+```
 
 After a quick glance at the code, I searched about atoi function and found [this](https://www.tutorialspoint.com/c_standard_library/c_function_atoi.htm). So atoi basically parse a string to int.
 In order to succeed in the challenge we need to get to line 18 of the code, meaning we need the "LETMEWIN\n" == buf. 
