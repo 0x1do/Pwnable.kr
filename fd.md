@@ -18,11 +18,16 @@ Now, after that, we got a bit of background on the challenge, let's begin!
 After I connected to the machine I saw 3 files: fd, fd.c, flag.
 We have access to read fd.c and run fd (compiled fd.c), our mission is to get the content of the flag.
 Let's try and run fd:
-![image](https://github.com/ido5ch/Pwnable.kr/assets/97401114/237dc4d9-f11a-4e7a-ad1d-5a6901ce76d2)
+```bash
+fd@pwnable:~$ ./fd
+pass argv[1] a number
+```
 
 Okay, that's interesting. Let's try just any number (in order to pass argv[1] a number):
-![image](https://github.com/ido5ch/Pwnable.kr/assets/97401114/e4088b38-2efb-4daa-b43a-28fc9682266f)
-
+```bash
+fd@pwnable:~$ ./fd 0
+learn about Linux file IO
+```
 So it seems like it's not that simple, let's print fd.c and try to analyze it a bit:
 ```c
 #include <stdio.h>
@@ -56,4 +61,9 @@ From lines 13-14, we realize that we need to set fd to zero.
 To sum up, if fd equals zero we finished. I saw that fd = (the number we are giving) - 0x1234
 I opened calc and converted 11234 in hex to decimal and got 4660.
 After I wrote that we entered a shell and we need to write LETMEWIN in order to get the flag.
-![image](https://github.com/ido5ch/Pwnable.kr/assets/97401114/80580996-2fe3-4187-944c-19beba2018bd)
+```bash
+fd@pwnable:~$ ./fd 4660
+LETMEWIN
+good job :)
+*the flag*
+```
