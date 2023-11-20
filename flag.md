@@ -12,6 +12,7 @@ I will malloc() and strcpy the flag there. take it.
 Let's understand what is [Malloc](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) and how does it work.
 Now that we have all the information that we can get, let's open ida and disassemble the file.
 Damn, we have just so many functions. I am not going to understand all, let's try and think what to do.
+
 ![giphy](https://github.com/ido5ch/Pwnable.kr/assets/97401114/707ab752-1857-449c-9971-4b1c2fdf996e)
 
 Strings! We already understand that the challenge is about locating a string, so let's press view strings (view -> Open subviews -> strings):
