@@ -24,7 +24,7 @@ CTFs I have completed so far:
 - [ ] blackjack
 - [ ] lotto
 - [x] cmd1
-- [ ] cmd2
+- [x] cmd2
 - [ ] uaf
 - [ ] memcpy
 - [ ] asm
