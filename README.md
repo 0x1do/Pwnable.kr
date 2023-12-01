@@ -22,7 +22,7 @@ CTFs I have completed so far:
 - [x] shellshock
 - [ ] coin1
 - [x] blackjack
-- [ ] lotto
+- [x] lotto
 - [x] cmd1
 - [x] cmd2
 - [ ] uaf
