@@ -21,7 +21,7 @@ CTFs I have completed so far:
 - [ ] mistake
 - [x] shellshock
 - [ ] coin1
-- [ ] blackjack
+- [x] blackjack
 - [ ] lotto
 - [x] cmd1
 - [x] cmd2
