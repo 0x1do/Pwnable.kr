@@ -29,5 +29,5 @@ CTFs I have completed so far:
 - [ ] memcpy
 - [ ] asm
 - [ ] unlink
-- [ ] blukat
+- [x] blukat
 - [ ] horcruxes
