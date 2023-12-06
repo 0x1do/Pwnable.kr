@@ -21,7 +21,7 @@ Toddler's Bottle (13/21):
 - [ ] leg
 - [x] mistake
 - [x] shellshock
-- [ ] coin1
+- [x] coin1
 - [x] blackjack
 - [x] lotto
 - [x] cmd1
