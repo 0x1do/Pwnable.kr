@@ -27,7 +27,7 @@ Toddler's Bottle (14/21):
 - [x] cmd1
 - [x] cmd2
 - [ ] uaf
-- [ ] memcpy
+- [x] memcpy
 - [ ] asm
 - [ ] unlink
 - [x] blukat
