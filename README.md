@@ -9,7 +9,7 @@ num | challenge | pts
 4 | [flag](/flag.md) | 7
 
 #### CTFs I have completed so far: 
-Toddler's Bottle (15/21):
+Toddler's Bottle (16/21):
 
 - [x] fd
 - [x] collision
@@ -18,7 +18,7 @@ Toddler's Bottle (15/21):
 - [x] passcode
 - [x] random
 - [ ] input
-- [ ] leg
+- [x] leg
 - [x] mistake
 - [x] shellshock
 - [x] coin1
