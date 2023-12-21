@@ -9,7 +9,7 @@ num | challenge | pts
 4 | [flag](/flag.md) | 7
 
 #### CTFs I have completed so far: 
-Toddler's Bottle (16/21):
+Toddler's Bottle (17/21):
 
 - [x] fd
 - [x] collision
@@ -28,7 +28,7 @@ Toddler's Bottle (16/21):
 - [x] cmd2
 - [ ] uaf
 - [x] memcpy
-- [ ] asm
+- [x] asm
 - [ ] unlink
 - [x] blukat
 - [ ] horcruxes
