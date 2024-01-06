@@ -17,7 +17,7 @@ Toddler's Bottle (17/21):
 - [x] flag
 - [x] passcode
 - [x] random
-- [ ] input
+- [x] input
 - [x] leg
 - [x] mistake
 - [x] shellshock
@@ -31,4 +31,4 @@ Toddler's Bottle (17/21):
 - [x] asm
 - [ ] unlink
 - [x] blukat
-- [ ] horcruxes
+- [x] horcruxes
