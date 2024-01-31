@@ -4,7 +4,7 @@
 
 
 #### CTFs I have completed so far: 
-Toddler's Bottle (17/21):
+Toddler's Bottle (19/21):
 
 - [x] fd
 - [x] collision
@@ -28,3 +28,21 @@ Toddler's Bottle (17/21):
 - [x] blukat
 - [x] horcruxes
 
+Rookiss (1/17):
+- [ ] brain fuck
+- [ ] md5 calc
+- [ ] simple login
+- [ ] otp
+- [ ] ascii_easy
+- [ ] tiny_easy
+- [x] fsb
+- [ ] dragon
+- [ ] fix
+- [ ] syscall
+- [ ] crypto1
+- [ ] echo1
+- [ ] echo2
+- [ ] rsa calc
+- [ ] note
+- [ ] alloca
+- [ ] loveletter
