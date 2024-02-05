@@ -1,0 +1,46 @@
+
+
+
+
+              222                111                            
+            222 222            11111                              
+           222   222          11 111                            
+                222              111                               
+               222               111                           
+
+CCCCC     SS            DD         HHHHH    C    C                
+C    C    SS           D  D       H     H   C   C              
+C    C    SS          D    D     H          C  C               
+CCCCC     SS          D DD D     H          C C              
+C    C    SS         D DDDD D    H          CC C             
+C     C   SS         D      D    H          C   C               
+C     C   SS        D        D    H     H   C    C             
+CCCCCC    SSSSSSS   D        D     HHHHH    C     C            
+
+                        21                                   
+     DDDDDDDD      HH         CCCCC    S    S                
+        DD        H  H       C     C   S   S              
+        DD       H    H     C          S  S               
+        DD       H HH H     C          S S              
+        DD      H HHHH H    C          SS S             
+        DD      H      H    C          S   S               
+     D  DD     H        H    C     S   S    C             
+      DDD      H        H     CCCCC    S     S            
+
+         222                     111                         
+        222                      111                         
+       222                       111                         
+      222222222222222      111111111111111                       
+      2222222222222222    11111111111111111                         
+
+
+                 Are You Ready?
+                ----------------
+                      (Y/N)
+                        y
+
+
+Enter 1 to Begin the Greatest Game Ever Played.
+Enter 2 to See a Complete Listing of Rules.
+Enter 3 to Exit Game. (Not Recommended)
+Choice: 
