@@ -21,7 +21,7 @@ Toddler's Bottle (19/21):
 - [x] lotto
 - [x] cmd1
 - [x] cmd2
-- [ ] uaf
+- [x] uaf
 - [x] memcpy
 - [x] asm
 - [ ] unlink
@@ -31,7 +31,7 @@ Toddler's Bottle (19/21):
 Rookiss (1/17):
 - [ ] brain fuck
 - [ ] md5 calc
-- [ ] simple login
+- [x] simple login
 - [ ] otp
 - [ ] ascii_easy
 - [ ] tiny_easy
