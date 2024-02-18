@@ -24,7 +24,7 @@ Toddler's Bottle (19/21):
 - [x] uaf
 - [x] memcpy
 - [x] asm
-- [ ] unlink
+- [x] unlink
 - [x] blukat
 - [x] horcruxes
 
