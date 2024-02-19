@@ -4,7 +4,7 @@
 
 
 #### CTFs I have completed so far: 
-Toddler's Bottle (19/21):
+Toddler's Bottle (21/21):
 
 - [x] fd
 - [x] collision
