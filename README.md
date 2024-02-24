@@ -28,7 +28,7 @@ Toddler's Bottle (21/21):
 - [x] blukat
 - [x] horcruxes
 
-Rookiss (1/17):
+Rookiss (2/17):
 - [ ] brain fuck
 - [ ] md5 calc
 - [x] simple login
