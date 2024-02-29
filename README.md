@@ -28,7 +28,7 @@ Toddler's Bottle (21/21):
 - [x] blukat
 - [x] horcruxes
 
-Rookiss (2/17):
+Rookiss (3/17):
 - [ ] brain fuck
 - [ ] md5 calc
 - [x] simple login
@@ -36,7 +36,7 @@ Rookiss (2/17):
 - [ ] ascii_easy
 - [ ] tiny_easy
 - [x] fsb
-- [ ] dragon
+- [x] dragon
 - [ ] fix
 - [ ] syscall
 - [ ] crypto1
