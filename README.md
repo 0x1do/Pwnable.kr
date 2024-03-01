@@ -6,28 +6,6 @@
 #### CTFs I have completed so far: 
 Toddler's Bottle (21/21):
 
-- [x] fd
-- [x] collision
-- [x] bof
-- [x] flag
-- [x] passcode
-- [x] random
-- [x] input
-- [x] leg
-- [x] mistake
-- [x] shellshock
-- [x] coin1
-- [x] blackjack
-- [x] lotto
-- [x] cmd1
-- [x] cmd2
-- [x] uaf
-- [x] memcpy
-- [x] asm
-- [x] unlink
-- [x] blukat
-- [x] horcruxes
-
 Rookiss (3/17):
 - [ ] brain fuck
 - [ ] md5 calc
@@ -40,7 +18,7 @@ Rookiss (3/17):
 - [ ] fix
 - [ ] syscall
 - [ ] crypto1
-- [ ] echo1
+- [x] echo1
 - [ ] echo2
 - [ ] rsa calc
 - [ ] note
