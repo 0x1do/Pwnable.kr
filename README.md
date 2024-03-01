@@ -2,11 +2,12 @@
 ### Writeups to [pwnable.kr](https://pwnable.kr) 
 
 
+[part 1 write-ups (digital whisper)](https://digitalwhisper.co.il/files/Zines/0x9F/DW159-1-ToddlersBottle.pdf)
 
 #### CTFs I have completed so far: 
-Toddler's Bottle (21/21):
+Toddler's Bottle (21/21)
 
-Rookiss (3/17):
+Rookiss (4/17):
 - [ ] brain fuck
 - [ ] md5 calc
 - [x] simple login
