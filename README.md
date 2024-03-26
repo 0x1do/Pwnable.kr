@@ -20,8 +20,8 @@ Rookiss (9/17):
 - [ ] syscall
 - [ ] crypto1
 - [x] echo1
-- [x] echo2
+- [] echo2
 - [ ] rsa calc
 - [ ] note
 - [ ] alloca
-- [ ] loveletter
+- [x] loveletter
