@@ -2,7 +2,6 @@
 ### Writeups to [pwnable.kr](https://pwnable.kr) 
 
 
-Check out my [walk-throughs](https://digitalwhisper.co.il/files/Zines/0x9F/DW159-1-ToddlersBottle.pdf)
 
 #### CTFs I have completed so far: 
 Toddler's Bottle (21/21)
