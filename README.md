@@ -6,7 +6,7 @@
 #### CTFs I have completed so far: 
 Toddler's Bottle (21/21)
 
-Rookiss (9/17):
+Rookiss (10/17):
 - [x] brain fuck
 - [ ] md5 calc
 - [x] simple login
