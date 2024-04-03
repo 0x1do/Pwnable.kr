@@ -20,7 +20,7 @@ Rookiss (9/17):
 - [ ] crypto1
 - [x] echo1
 - [ ] echo2
-- [ ] rsa calc
+- [x] rsa calc
 - [ ] note
 - [ ] alloca
 - [x] loveletter
