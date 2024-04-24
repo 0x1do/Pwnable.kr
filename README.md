@@ -30,3 +30,4 @@ Rookiss (10/17):
 
  Hacker's Secret (1/13)
 - [x] exploitable
+- [ ] unexploitable
