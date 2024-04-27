@@ -2,7 +2,7 @@
 ### Writeups to [pwnable.kr](https://pwnable.kr) 
 
 
-**Currently working on: unexploitable**
+**Currently working on: None**
 
 
 #### CTFs I have completed so far: 
@@ -29,6 +29,6 @@ Rookiss (10/17):
 - [ ] alloca
 - [x] loveletter
 
- Hacker's Secret (1/13)
+ Hacker's Secret (2/13)
 - [x] exploitable
-- [ ] unexploitable
+- [x] unexploitable
