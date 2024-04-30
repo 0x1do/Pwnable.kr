@@ -2,7 +2,7 @@
 ### Writeups to [pwnable.kr](https://pwnable.kr) 
 
 
-**Currently working on: None**
+**Currently working on:  tiny hard**
 
 
 #### CTFs I have completed so far: 
@@ -32,3 +32,5 @@ Rookiss (10/17):
  Hacker's Secret (2/13)
 - [x] exploitable
 - [x] unexploitable
+- [ ] tiny
+- [ ] tiny hard
