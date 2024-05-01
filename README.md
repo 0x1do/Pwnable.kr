@@ -5,7 +5,7 @@
 **Currently working on:  tiny hard**
 
 
-#### CTFs I have completed so far: 
+#### Challenges I have completed so far (34/67): 
 
 
 Toddler's Bottle (21/21)
@@ -28,7 +28,10 @@ Rookiss (10/17):
 - [ ] note
 - [ ] alloca
 - [x] loveletter
-
+      
+Grotesque (1/16)
+- [x] wtf
+      
  Hacker's Secret (2/13)
 - [x] exploitable
 - [x] unexploitable
