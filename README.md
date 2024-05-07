@@ -5,12 +5,12 @@
 **Currently working on:  md5 calculator**
 
 
-#### Challenges I have completed so far (34/67): 
+#### Challenges I have completed so far (35/67): 
 
 
 Toddler's Bottle (21/21)
 
-Rookiss (10/17):
+Rookiss (11/17):
 - [x] brain fuck
 - [ ] md5 calc
 - [x] simple login
@@ -19,7 +19,7 @@ Rookiss (10/17):
 - [x] tiny_easy
 - [x] fsb
 - [x] dragon
-- [ ] fix
+- [x] fix
 - [ ] syscall
 - [ ] crypto1
 - [x] echo1
