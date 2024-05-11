@@ -10,9 +10,9 @@
 
 Toddler's Bottle (21/21)
 
-Rookiss (11/17):
+Rookiss (12/17):
 - [x] brain fuck
-- [ ] md5 calc
+- [x] md5 calc
 - [x] simple login
 - [x] otp
 - [x] ascii_easy
