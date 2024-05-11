@@ -5,7 +5,7 @@
 **Currently working on:  md5 calculator**
 
 
-#### Challenges I have completed so far (35/67): 
+#### Challenges I have completed so far (36/67): 
 
 
 Toddler's Bottle (21/21)
