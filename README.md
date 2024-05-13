@@ -5,12 +5,12 @@
 **Currently working on:  alloca**
 
 
-#### Challenges I have completed so far (36/67): 
+#### Challenges I have completed so far (37/67): 
 
 
 Toddler's Bottle (21/21)
 
-Rookiss (12/17):
+Rookiss (13/17):
 - [x] brain fuck
 - [x] md5 calc
 - [x] simple login
@@ -23,7 +23,7 @@ Rookiss (12/17):
 - [ ] syscall
 - [ ] crypto1
 - [x] echo1
-- [ ] echo2
+- [x] echo2
 - [x] rsa calc
 - [ ] note
 - [ ] alloca
