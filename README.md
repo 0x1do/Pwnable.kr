@@ -2,15 +2,15 @@
 ### Writeups to [pwnable.kr](https://pwnable.kr) 
 
 
-**Currently working on:  note**
+**Currently working on:  coin2**
 
 
-#### Challenges I have completed so far (38/67): 
+#### Challenges I have completed so far (39/67): 
 
 
 Toddler's Bottle (21/21)
 
-Rookiss (14/17):
+Rookiss (15/17):
 - [x] brain fuck
 - [x] md5 calc
 - [x] simple login
@@ -25,7 +25,7 @@ Rookiss (14/17):
 - [x] echo1
 - [x] echo2
 - [x] rsa calc
-- [ ] note
+- [x] note
 - [x] alloca
 - [x] loveletter
 
