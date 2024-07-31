@@ -2,10 +2,10 @@
 ### Writeups to [pwnable.kr](https://pwnable.kr) 
 
 
-**Currently working on:  coin2**
+**Currently working on:  None**
 
 
-#### Challenges I have completed so far (39/67): 
+#### Challenges I have completed so far (40/67): 
 
 
 Toddler's Bottle (21/21)
@@ -29,11 +29,10 @@ Rookiss (15/17):
 - [x] alloca
 - [x] loveletter
 
-Grotesque (1/16)
+Grotesque (2/16)
 - [x] wtf
+- [x] coin2
       
  Hacker's Secret (2/13)
 - [x] exploitable
 - [x] unexploitable
-- [ ] tiny
-- [ ] tiny hard
