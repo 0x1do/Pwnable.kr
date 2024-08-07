@@ -20,7 +20,7 @@ Rookiss (15/17):
 - [x] fsb
 - [x] dragon
 - [x] fix
-- [ ] syscall
+- [x] syscall
 - [ ] crypto1
 - [x] echo1
 - [x] echo2
