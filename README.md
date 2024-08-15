@@ -2,15 +2,15 @@
 ### Writeups to [pwnable.kr](https://pwnable.kr) 
 
 
-**Currently working on:  None**
+**Currently working on:  LFH**
 
 
-#### Challenges I have completed so far (40/67): 
+#### Challenges I have completed so far (42/67): 
 
 
 Toddler's Bottle (21/21)
 
-Rookiss (15/17):
+Rookiss (16/17):
 - [x] brain fuck
 - [x] md5 calc
 - [x] simple login
@@ -29,9 +29,10 @@ Rookiss (15/17):
 - [x] alloca
 - [x] loveletter
 
-Grotesque (2/16)
+Grotesque (3/16)
 - [x] wtf
 - [x] coin2
+- [x] maze
       
  Hacker's Secret (2/13)
 - [x] exploitable
